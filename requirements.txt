@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+pymysql
+requests
+binance-connector
+fastapi
+uvicorn
+typing
+python-dotenv
